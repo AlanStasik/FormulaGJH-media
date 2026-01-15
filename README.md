@@ -1,6 +1,6 @@
 # Formula GJH Media Archive
 
-Official media repository for Formula GJH - Slovak high school Formula 1 competition.
+Official media repository for Formula GJH - Slovak high school Formula 1 like RC cars competition.
 
 ## 📸 Contents
 
@@ -24,9 +24,10 @@ These media assets are used across Formula GJH digital platforms:
 
 All media in this repository is property of Formula GJH. For usage permissions, please contact the Formula GJH team.
 
-## 🔗 Related Projects
+## 🔗 Projects Website
 
-- [Formula GJH Website](https://github.com/AlanStasik/formulagjh-vue) - Official website repository
+- [Formula GJH Website](https://formulagjh.eu) - Official website
+- [Formula GJH Events](https://formulagjh.eu/events) - here are the pictures
 
 ## 📞 Contact
 
@@ -36,4 +37,4 @@ For inquiries about media usage or contributions:
 
 ---
 
-© 2023-2025 Formula GJH. All rights reserved.
+© 2023-2026 Formula GJH. All rights reserved.
